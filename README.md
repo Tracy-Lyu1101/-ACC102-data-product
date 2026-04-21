@@ -17,10 +17,11 @@
 - Microsoft shows more stable short-term daily return distribution, while Apple has stronger long-term growth elasticity
 - Two stocks perform synchronously during COVID pandemic shock and post-pandemic recovery periods
 ## 5. How to run (optional but valuable)
-1. Install dependencies: `pip install pandas numpy matplotlib seaborn`
-2. Open and run all cells in `Stock_Analysis.ipynb`
-3. All data results and plots will be generated automatically
+- Install dependencies: `pip install pandas numpy matplotlib seaborn`
+- Open and run all cells in `Stock_Analysis.ipynb`
+- All data results and plots will be generated automatically
 ## 6. Product link / Demo
+- Product link: https://github.com/Tracy-Lyu1101/-ACC102-data-product/tree/main
 ## 7. Limitations & next steps
 - Limitations: Analysis only uses historical price data, no company fundamental financial data or macroeconomic indicator analysis
 - Next steps: Add company fundamental data analysis and macro indicator correlation research in future updates
