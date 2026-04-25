@@ -23,7 +23,8 @@ https://github.com/Tracy-Lyu1101/-ACC102-data-product/blob/main/2473591_Yuxi.Lv_
 - Open and run all cells in `Stock_Analysis.ipynb`
 - All data results and plots will be generated automatically
 ## 6. Product link / Demo
-- Product link:github： https://github.com/Tracy-Lyu1101/-ACC102-data-product/tree/main
+- Product link:
+- github： https://github.com/Tracy-Lyu1101/-ACC102-data-product/tree/main
 - notebook：https://github.com/Tracy-Lyu1101/-ACC102-data-product/blob/main/2473591_Yuxi.Lv_ACC102_track2.ipynb
 ## 7. Limitations & next steps
 - Limitations: Analysis only uses historical price data, no company fundamental financial data or macroeconomic indicator analysis
